@@ -1,0 +1,23 @@
+{
+  "appTitle": "SmartPark",
+  "login": "Iniciar sesión",
+  "username": "Nombre de usuario",
+  "password": "Contraseña",
+  "invalidCredentials": "Nombre de usuario o contraseña inválidos",
+  "plateNotRegistered": "Placa no registrada",
+  "networkError": "Error de red: {error}",
+  "databaseDownloaded": "Base de datos descargada con éxito",
+  "databaseDownloadFailed": "Error al descargar la base de datos",
+  "configurationSaved": "Configuración guardada",
+  "configurationReset": "Configuración restablecida a los valores predeterminados",
+  "localDatabaseDeleted": "Base de datos local eliminada",
+  "plateEntryDeleted": "Entrada de placa eliminada",
+  "cameraInitializationFailed": "Error al inicializar la cámara",
+  "cameraPermissionDenied": "Permiso de cámara denegado",
+  "plateSaved": "Placa guardada",
+  "save": "Guardar",
+  "resetToDefault": "Restablecer a los valores predeterminados",
+  "deleteLocalDatabase": "Eliminar base de datos local",
+  "english": "Inglés",
+  "spanish": "Español"
+}
